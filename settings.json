@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "pinky aarushi",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "SMP544.aternos.me",
+    "port": 58524,
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
